@@ -3,7 +3,7 @@ import string
 
 
 def generate_password(length):
-    """Генерирует случайный пароль заданной длины."""
+    """Генерирует случа2йный пароль заданной длины."""
     # Все возможные символы: буквы (нижний/верхний регистр), цифры, спецсимволы
     characters = string.ascii_letters + string.digits + string.punctuation
 
